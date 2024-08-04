@@ -1,2 +1,2 @@
-# maths
+# Maths
 Handy maths library
